@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://irakli288.github.io/devops-docs/`.
+
+См. также [дополнительную страницу](missing-page.md).
